@@ -29,5 +29,5 @@ cd ~
 sudo apt install i3 polybar rofi -y
 
 ## i3
-mkdir -p ~/.config/i3
-touch ~/.config/i3/config
+#mkdir -p ~/.config/i3
+#touch ~/.config/i3/config
