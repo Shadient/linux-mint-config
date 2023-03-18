@@ -5,7 +5,7 @@ sudo apt install ripgrep build-essential git cmake pkg-config libfreetype6-dev l
 source ~/.bashrc
 
 ## Node & NPM
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 source ~/.bashrc
 nvm install --lts
 source ~/.bashrc
