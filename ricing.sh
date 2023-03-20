@@ -11,3 +11,4 @@ curl https://raw.githubusercontent.com/Shadient/linux-mint-config/main/polybar/c
 curl https://raw.githubusercontent.com/Shadient/linux-mint-config/main/polybar/launch.sh > ~/.config/polybar/launch.sh
 cd .config/polybar
 chmod +x launch.sh
+cd ~
